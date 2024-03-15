@@ -171,3 +171,6 @@ Please do it
 
 # Version
 1.0.0
+
+# Release
+[Latest](https://github.com/farhanaliofficial/TenMinuteMailClient/releases)
